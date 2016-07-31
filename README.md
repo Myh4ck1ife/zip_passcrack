@@ -8,4 +8,4 @@
 
 # 使用方法 #
 
-python demo.py -f <zipfile> -d <dictionary>
+python demo.py -f 文件名 -d 字典名
